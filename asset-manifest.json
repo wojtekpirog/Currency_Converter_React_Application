@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Currency_Converter_React_Application/static/css/main.deb9010b.css",
+    "main.js": "/Currency_Converter_React_Application/static/js/main.c8bef231.js",
+    "index.html": "/Currency_Converter_React_Application/index.html",
+    "main.deb9010b.css.map": "/Currency_Converter_React_Application/static/css/main.deb9010b.css.map",
+    "main.c8bef231.js.map": "/Currency_Converter_React_Application/static/js/main.c8bef231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb9010b.css",
+    "static/js/main.c8bef231.js"
+  ]
+}
