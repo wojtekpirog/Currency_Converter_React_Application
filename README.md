@@ -17,4 +17,4 @@ The application fetches the latest foreign exchange rates from the official API 
 2. Run `index.html` file in your web browser
 3. Quickly and effortlessly convert EUR, USD and CHF to PLN in their latest exchange rates with this app!
 
-Also, you can view the webpage currently running at https://wojtekpirog.github.io/przelicznik_walut_react/
+Also, you can view the webpage currently running at https://wojtekpirog.github.io/Currency_Converter_React_Application/
